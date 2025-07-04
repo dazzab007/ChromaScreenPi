@@ -1,4 +1,4 @@
-<t1>ChromaScreenPi - Modified to work with a Raspberry Pi + Touchscreen</t1>
+#ChromaScreenPi - ChromaScreen on a Raspberry Pi + Touchscreen
 
 
 <p align="center">
