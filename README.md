@@ -1,5 +1,5 @@
 <h1>ChromaScreenPi - ChromaScreen on a Raspberry Pi + Touchscreen</h1>
-<p align="center">ChromaScreen is itself a modified version of KlipperScreen developed by CoPrint for their ChromaPad product. This is a modified version that works with a Raspberry Pi + Touchscreen for those that hae an existing setup and want to use the new interface with their CoPrint installation. 
+<p align="center">ChromaScreen is itself a modified version of <a href=" https://github.com/KlipperScreen/KlipperScreen>KlipperScreen</a> developed by CoPrint for their ChromaPad product. This is a modified version that works with a Raspberry Pi + Touchscreen for those that hae an existing setup and want to use the new interface with their CoPrint installation.
 </p>
 <br>
 
