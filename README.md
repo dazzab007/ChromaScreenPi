@@ -1,3 +1,6 @@
+<t1>ChromaScreenPi - Modified to work with a Raspberry Pi + Touchscreen</t1>
+
+
 <p align="center">
   <a>
     <img src="https://github.com/coprint/Wiki/blob/main/images/coprintblacklogo.png?raw=true" alt='Mainsail logo' height="152">
